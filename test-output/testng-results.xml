@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T00:43:19 EDT" name="AutomationSuite" finished-at="2024-05-08T00:43:32 EDT" duration-ms="12905">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T00:43:19 EDT" name="LoginTest" finished-at="2024-05-08T00:43:32 EDT" duration-ms="12905">
+      <class name="testcases.OpportunitiesTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.OpportunitiesTest@441772e]" started-at="2024-05-08T00:43:20 EDT" name="beforeMethod" finished-at="2024-05-08T00:43:23 EDT" duration-ms="3503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Loginuser_34()[pri:0, instance:testcases.OpportunitiesTest@441772e]" started-at="2024-05-08T00:43:23 EDT" name="Loginuser_34" finished-at="2024-05-08T00:43:32 EDT" duration-ms="9309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginuser_34 -->
+      </class> <!-- testcases.OpportunitiesTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
